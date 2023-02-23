@@ -1,0 +1,2 @@
+Hello world it has been a long time coming, but I am finally following my dream.
+git add hello_world.txt
